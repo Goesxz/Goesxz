@@ -1,5 +1,14 @@
-# 💫 About Me:
-🔭 Atualmente estou trabalhando em: projetos que envolvem front-end, utilizando minhas habilidades em HTML, CSS e JavaScript para criar interfaces web atraentes e interativas.<br><br>👯 Estou procurando colaborar em: projetos que combinem front-end e back-end, explorando o potencial de trabalhar com dados e criar soluções completas.<br><br>🤝 Estou buscando ajuda com: minhas habilidades de back-end, aprendendo novas tecnologias e aprimorando meus conhecimentos nesse campo.<br><br>🌱 Estou aprendendo: conceitos de desenvolvimento back-end, como linguagens de programação e bancos de dados.<br><br>💬 Me pergunte sobre: minhas experiências em front-end, meus objetivos de carreira e minhas ideias para projetos inovadores.<br><br>⚡ Fato divertido: Sou apaixonado por aprender coisas novas e acredito que a curiosidade é a chave
+🔭 I'm currently working on projects involving front-end, using my skills in HTML, CSS and JavaScript to create attractive and interactive web interfaces.
+
+👯 I'm looking to collaborate on projects that combine front-end and back-end, exploring the potential of working with data and creating complete solutions.
+
+🤝 I'm seeking help with my back-end skills, learning new technologies and improving my knowledge in this field.
+
+🌱 I'm learning back-end development concepts, such as programming languages and databases.
+
+💬 Ask me about my front-end experiences, my career goals and my ideas for innovative projects.
+
+⚡ Fun fact: I'm passionate about learning new things and I believe that curiosity is the key. 
 
 
 ## 🌐 Socials:
