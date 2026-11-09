@@ -86,11 +86,14 @@ A conference website designed to showcase the event, engage visitors, and encour
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Goesxz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub Stats" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Goesxz&theme=github_dark" alt="GitHub Profile Summary" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goesxz&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" alt="Most Used Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Goesxz&theme=github_dark" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Goesxz&theme=github_dark" alt="Most Used Languages" />
 
-<img src="https://streak-stats.demolab.com?user=Goesxz&theme=transparent&hide_border=true&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" alt="GitHub Contribution Streak" />
+  <br />
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=Goesxz&theme=github-dark-blue&hide_border=true&hide_total_contributions=true&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" alt="GitHub Contribution Streak" />
 
 </div>
 
