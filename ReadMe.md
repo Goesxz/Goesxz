@@ -2,7 +2,7 @@
 
 I'm a **Full Stack Developer**, and I love the creative chaos of building websites and applications.
 
-Come along for the ride! 🚀
+Follow me! 
 
 ---
 
