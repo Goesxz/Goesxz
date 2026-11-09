@@ -1,3 +1,5 @@
+<img src="./banner.jpg" alt="Luis - Full Stack Developer | Founder of Group of Leaders" width="100%" />
+
 # Hey, how's it going? I'm Luis! 👋
 
 I'm a **Full Stack Developer** and the founder of [**Group of Leaders**](https://github.com/Group-of-Leaders), a tech agency building websites, systems, and digital products.
